@@ -1,4 +1,4 @@
-<div class="home_slider " id="home" data-aos="zoom-in"  data-aos-duration="1200">
+<div class="home_slider " id="home" data-aos="zoom-in" data-aos-duration="1200">
   <div class="owl-carousel owl-theme slider_arrrw" id="slider1">
 
     <div class="item">
@@ -9,7 +9,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="heading">
-                  <h1>Remotex Light  What
+                  <h1>Renotek Light What
                     is Lorem Ipsum?</h1>
                   <p>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
@@ -31,7 +31,7 @@
             <div class="row">
               <div class="col-md-6">
                 <div class="heading">
-                  <h1>Remotex Light  What
+                  <h1>Renotek Light What
                     is Lorem Ipsum?</h1>
                   <p>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
@@ -51,10 +51,10 @@
 
 <section class="pad_t sec_1">
   <div class="container">
-    <div class="heading text-center" data-aos="fade-down"  data-aos-duration="1000">
+    <div class="heading text-center" data-aos="fade-down" data-aos-duration="1000">
 
       <h1>
-        Remotex Lorem Ipsum
+        Renotek Lorem Ipsum
       </h1>
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
@@ -63,7 +63,7 @@
 
     </div>
     <div class="row">
-      <div class="col-sm-6" data-aos="fade-left"  data-aos-duration="1000">
+      <div class="col-sm-6" data-aos="fade-left" data-aos-duration="1000">
         <div class="box_d1">
           <div class="conten_set">
             <h5>Get Upto</h5>
@@ -74,7 +74,7 @@
           <img src="<?= site_url('assets/site/'); ?>img/img2.png" alt="" class="img_r">
         </div>
       </div>
-      <div class="col-sm-6" data-aos="fade-right"  data-aos-duration="1000">
+      <div class="col-sm-6" data-aos="fade-right" data-aos-duration="1000">
         <div class="box_d1">
           <div class="conten_set">
             <h5>Get Upto</h5>
@@ -89,23 +89,22 @@
   </div>
 </section>
 
-<section class="sec_pad abhout" >
+<section class="sec_pad abhout">
   <div class="container">
 
     <div class="row align-items-center">
-      <div class="col-sm-6" data-aos="flip-left"  data-aos-duration="2000">
+      <div class="col-sm-6" data-aos="flip-left" data-aos-duration="2000">
         <div class="ab_img2">
           <img src="<?= site_url('assets/site/'); ?>img/img1.png" class="img_r">
         </div>
       </div>
-      <div class="col-sm-6" data-aos="flip-right"  data-aos-duration="2000">
+      <div class="col-sm-6" data-aos="flip-right" data-aos-duration="2000">
         <div class="conten_set">
-          <h2 class="hea_2">Missing the authenticity in your meal? <br>
-            Don’t worry!
+          <h2 class="hea_2">WELCOME TO Renotek LIGHTS
           </h2>
           <p>
-            The Allahabadi has arrived to reckon the touch of the last leaf- AUTHENTIC in your boring meals. With an exotic Indian and international menu, your taste buds will tour the world at this vibrant and friendly multi-cuisine restaurant in Indore. To satisfy your taste buds, we offer range of cuisines comprising Non-vegetarian, Sea Food, North India, South Indian, Italian and so on. We promised to deliver authentic, premium and synonymous taste across the world and we kept up to our words. And we take PRIDE to say, that in a short span of 2 years, we gained a lot of love from the food loving INDORI'S!
-          </p>
+
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate id est laborum. </p>
           <!-- <ul class="ul_set list_iocon">
             
          <li><i class="fa fa-check-circle"></i> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
@@ -113,7 +112,10 @@
          <li><i class="fa fa-check-circle"></i> Lorem Ipsum is simply industry.</li>
 
           </ul> -->
-          <a href="about-us.php" class="btn btn_theme btn_r btn-lg">Read More</a>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate id est laborum.
+          </p>
+          <a href="#" class="btn btn_theme btn_r btn-lg">Read More</a>
         </div>
       </div>
     </div>
@@ -135,7 +137,9 @@
     <div class="row">
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img4.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img4.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -148,7 +152,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img5.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>    
+          <img src="<?= site_url('assets/site/'); ?>img/img5.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -161,7 +167,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img8.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>
+            <img src="<?= site_url('assets/site/'); ?>img/img8.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -174,7 +182,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img10.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img10.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -187,7 +197,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img12.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img12.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -200,7 +212,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img15.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img15.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -228,45 +242,45 @@
     <div class="row">
       <div class="col-sm-3">
         <div class="conter_set">
-         <i class="fa fa-diamond"></i>
+          <i class="fa fa-diamond"></i>
           <div class="circle">
             <span class="count">20</span>
           </div>
           <h4>
-          STEPLIGHT
+            STEPLIGHT
           </h4>
         </div>
       </div>
       <div class="col-sm-3">
         <div class="conter_set">
-         <i class="fa fa-coffee"></i>
+          <i class="fa fa-coffee"></i>
           <div class="circle">
             <span class="count">20</span>
           </div>
           <h4>
-          STEPLIGHT
+            STEPLIGHT
           </h4>
         </div>
       </div>
       <div class="col-sm-3">
         <div class="conter_set">
-         <i class="fa fa-adjust"></i>
+          <i class="fa fa-adjust"></i>
           <div class="circle">
             <span class="count">20</span>
           </div>
           <h4>
-          STEPLIGHT
+            STEPLIGHT
           </h4>
         </div>
       </div>
       <div class="col-sm-3">
         <div class="conter_set">
-         <i class="fa fa-building"></i>
+          <i class="fa fa-building"></i>
           <div class="circle">
             <span class="count">20</span>
           </div>
           <h4>
-          STEPLIGHT
+            STEPLIGHT
           </h4>
         </div>
       </div>
@@ -275,7 +289,7 @@
 </section>
 <section class="sec_pad sec_4 left_rightaaa">
   <div class="container">
-  <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+    <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
       <h1>
         Best Sell
       </h1>
@@ -284,10 +298,12 @@
         has been the industry's standard dummy
       </p>
     </div>
-<div class="owl-carousel owl-theme slider_arrrw" id="slider2" data-aos="zoom-in" data-aos-duration="3000">
-  <div class="item">
-  <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img4.png" alt="" class="img_r"></span>
+    <div class="owl-carousel owl-theme slider_arrrw" id="slider2" data-aos="zoom-in" data-aos-duration="3000">
+      <div class="item">
+        <div class="box_d2">
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img4.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -297,10 +313,12 @@
             </div>
           </div>
         </div>
-  </div>
-  <div class="item">
-  <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img5.png" alt="" class="img_r"></span>
+      </div>
+      <div class="item">
+        <div class="box_d2">
+          <span class="hobb">
+          <a href="Product-Details"></a>    
+          <img src="<?= site_url('assets/site/'); ?>img/img5.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -310,10 +328,12 @@
             </div>
           </div>
         </div>
-  </div>
-  <div class="item">
-  <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img6.png" alt="" class="img_r"></span>
+      </div>
+      <div class="item">
+        <div class="box_d2">
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img6.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -323,10 +343,12 @@
             </div>
           </div>
         </div>
-  </div>
-  <div class="item">
-  <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img7.png" alt="" class="img_r"></span>
+      </div>
+      <div class="item">
+        <div class="box_d2">
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img7.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -336,10 +358,12 @@
             </div>
           </div>
         </div>
-  </div>
-  <div class="item">
-  <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img8.png" alt="" class="img_r"></span>
+      </div>
+      <div class="item">
+        <div class="box_d2">
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img8.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -349,10 +373,12 @@
             </div>
           </div>
         </div>
-  </div>
-  <div class="item">
-  <div class="box_d2">
-          <span class="hobb"><img src="<?= site_url('assets/site/'); ?>img/img9.png" alt="" class="img_r"></span>
+      </div>
+      <div class="item">
+        <div class="box_d2">
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img9.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -362,7 +388,7 @@
             </div>
           </div>
         </div>
-  </div>
-</div>
+      </div>
+    </div>
   </div>
 </section>

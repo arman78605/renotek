@@ -38,34 +38,34 @@
 <div class="headig3">
   <h4>Color</h4>
   </div>
-  <ul class="ul_set list1 mb-4">
+  <ul class="ul_set list1 mb-4 cchek">
      <li>
         <div class="check_b">
           <input type="checkbox">
           <span></span>
-          Almond (3)
         </div>
+        Almond (3)
      </li>
      <li>
         <div class="check_b">
           <input type="checkbox">
           <span></span>
-          Black (6) 
         </div>
+        Black (6) 
      </li>
      <li>
         <div class="check_b">
           <input type="checkbox">
           <span></span>
-          Brown (14) 
         </div>
+        Brown (14) 
      </li>
      <li>
         <div class="check_b">
           <input type="checkbox">
           <span></span>
-          Green (9) 
         </div>
+        Green (9) 
      </li>
     
   </ul>
@@ -73,27 +73,27 @@
 <div class="headig3">
   <h4>Size</h4>
   </div>
-  <ul class="ul_set list1">
+  <ul class="ul_set list1 cchek">
      <li>
         <div class="check_b">
           <input type="checkbox">
           <span></span>
-          S (32) 
         </div>
+        S (32) 
      </li>
      <li>
         <div class="check_b">
           <input type="checkbox">
           <span></span>
-          M (32) 
         </div>
+        M (32) 
      </li>
      <li>
         <div class="check_b">
           <input type="checkbox">
           <span></span>
-          L (32) 
         </div>
+        L (32) 
      </li>
     
     
@@ -113,7 +113,9 @@
     <div class="row">
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img4.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img4.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -126,7 +128,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img5.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img5.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -139,7 +143,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img8.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img8.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -152,7 +158,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img10.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img10.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -165,7 +173,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img12.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img12.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -178,7 +188,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img15.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img15.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -191,7 +203,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img13.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img13.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -204,7 +218,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img14.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img14.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>
@@ -217,7 +233,9 @@
       </div>
       <div class="col-sm-4">
         <div class="box_d2">
-          <span class="hobb"><img src="img/img13.png" alt="" class="img_r"></span>
+          <span class="hobb">
+          <a href="Product-Details"></a>  
+          <img src="<?= site_url('assets/site/'); ?>img/img13.png" alt="" class="img_r"></span>
           <div class="con_st">
             <h4>Led Backlite panel</h4>
             <h2>RS. 280.00</h2>

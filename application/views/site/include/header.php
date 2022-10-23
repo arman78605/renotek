@@ -22,7 +22,7 @@
 <div class="man_nav" data-aos="fade-down"  data-aos-duration="1000">
   <nav class="navbar navbar-expand-lg navbar-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="./">
+    <a class="navbar-brand" href="Home">
     <img src="<?= site_url('assets/site/'); ?>img/logo.png" >
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,42 +35,42 @@
     <ul class="navbar-nav ml-auto">
      
       <li class="nav-item">
-        <a class="nav-link" href="#" >Home</a>
+        <a class="nav-link" href="Home" >Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" >About Us</a>
+        <a class="nav-link" href="About-Us" >About Us</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" >Shop</a>
+        <a class="nav-link" href="Shop" >Shop</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" 
         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Indoor light </a>
         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-         <li><a class="dropdown-item" href="#">Led Backlite panel</a></li>
-         <li><a class="dropdown-item" href="#">Conseal</a></li>
-         <li><a class="dropdown-item" href="#">Cob (Spot ) LED light</a></li>
-         <li><a class="dropdown-item" href="#">Led bulb </a></li>
-         <li><a class="dropdown-item" href="#">AC/DC Bulb </a></li>
-         <li><a class="dropdown-item" href="#">Music bulb </a></li>
-         <li><a class="dropdown-item" href="#">Tubelight T-5 </a></li>
+         <li><a class="dropdown-item" href="Shop">Led Backlite panel</a></li>
+         <li><a class="dropdown-item" href="Shop">Conseal</a></li>
+         <li><a class="dropdown-item" href="Shop">Cob (Spot ) LED light</a></li>
+         <li><a class="dropdown-item" href="Shop">Led bulb </a></li>
+         <li><a class="dropdown-item" href="Shop">AC/DC Bulb </a></li>
+         <li><a class="dropdown-item" href="Shop">Music bulb </a></li>
+         <li><a class="dropdown-item" href="Shop">Tubelight T-5 </a></li>
         </ul>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" 
         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Outdoor light </a>
         <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
-          <li><a class="dropdown-item" href="#">Street light </a></li>
-          <li><a class="dropdown-item" href="#">Flood light </a></li>
-          <li><a class="dropdown-item" href="#">Spike </a></li>
-          <li><a class="dropdown-item" href="#">Foot light</a></li>
-          <li><a class="dropdown-item" href="#">Spot light </a></li>
-          <li><a class="dropdown-item" href="#">up down light</a></li>
-          <li><a class="dropdown-item" href="#">4 way light</a></li>
+          <li><a class="dropdown-item" href="Shop">Street light </a></li>
+          <li><a class="dropdown-item" href="Shop">Flood light </a></li>
+          <li><a class="dropdown-item" href="Shop">Spike </a></li>
+          <li><a class="dropdown-item" href="Shop">Foot light</a></li>
+          <li><a class="dropdown-item" href="Shop">Spot light </a></li>
+          <li><a class="dropdown-item" href="Shop">up down light</a></li>
+          <li><a class="dropdown-item" href="Shop">4 way light</a></li>
         </ul>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" >Contact Us</a>
+        <a class="nav-link" href="Contact-Us" >Contact Us</a>
       </li>
 
     

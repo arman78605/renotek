@@ -25,5 +25,29 @@ class Home extends CI_Controller
     $this->load->view('site/shop', $pageData);
     $this->load->view('site/include/footer', $pageData);
   }
+  public function about()
+  {
+    $pageData = [];
+
+    $this->load->view('site/include/header', $pageData);
+    $this->load->view('site/about', $pageData);
+    $this->load->view('site/include/footer', $pageData);
+  }
+  public function contact()
+  {
+    $pageData = [];
+
+    $this->load->view('site/include/header', $pageData);
+    $this->load->view('site/contact', $pageData);
+    $this->load->view('site/include/footer', $pageData);
+  }
+  public function details()
+  {
+    $pageData = [];
+
+    $this->load->view('site/include/header', $pageData);
+    $this->load->view('site/details', $pageData);
+    $this->load->view('site/include/footer', $pageData);
+  }
 
 }
